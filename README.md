@@ -6,18 +6,11 @@ Each section has a file for the equivalent app in both Dash and Shiny.  The file
 
 We're skipping making a blank page that does nothing.... boring.  Doing things is cool, not doing things is only cool irl, not in web apps.
 
-<!-- TOC -->
-
-- [Dash and Shiny for Python](#dash-and-shiny-for-python)
-  - [Single input and output](#single-input-and-output)
-  - [Rows, columns, and plots](#rows-columns-and-plots)
-  - [Adam thoughts and opinions](#adam-thoughts-and-opinions)
-  - [More official resources](#more-official-resources)
-    - [Dash](#dash)
-    - [Shiny](#shiny)
-  - [Wanna contribute?](#wanna-contribute)
-
-<!-- /TOC -->
+- [Single input and output](#single-input-and-output)
+- [Rows, columns, and plots](#rows-columns-and-plots)
+- [Adam thoughts and opinions](#adam-thoughts-and-opinions)
+- [More official resources](#more-official-resources)
+- [Wanna contribute?](#wanna-contribute)
 
 ## Single input and output
 
